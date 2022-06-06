@@ -31,7 +31,6 @@
 
 **What documentation, websites, papers, etc did you consult in doing this assignment?**
 
-&nbsp;&nbsp;&nbsp; Since some parts of 
 - [HTTP Status Library](https://docs.python.org/3/library/http.html)
 - [Ignore header from files](https://stackoverflow.com/questions/28382735/python-pandas-does-not-read-the-first-row-of-csv-file)
 - [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
